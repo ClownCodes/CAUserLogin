@@ -3,7 +3,7 @@ package use_case.login;
 /**
  * The output boundary for the Login Use Case.
  */
-public interface LoginOutputBoundary {
+public interface  LoginOutputBoundary {
     /**
      * Prepares the success view for the Login Use Case.
      * @param outputData the output data
